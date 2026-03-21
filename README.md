@@ -5,3 +5,4 @@ first commit
 <br>
 to see hidden file there is a command ls-Force
 <br>
+after doing add command the file is staged
